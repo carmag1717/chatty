@@ -1,0 +1,7 @@
+c:\users\семён\documents\visual studio 2010\Projects\BookLesson\BookLesson\bin\BookLesson.dll
+c:\users\семён\documents\visual studio 2010\Projects\BookLesson\BookLesson\bin\BookLesson.pdb
+c:\users\семён\documents\visual studio 2010\Projects\BookLesson\BookLesson\bin\EntityFramework.dll
+c:\users\семён\documents\visual studio 2010\Projects\BookLesson\BookLesson\bin\EntityFramework.xml
+c:\users\семён\documents\visual studio 2010\Projects\BookLesson\BookLesson\obj\Debug\ResolveAssemblyReference.cache
+c:\users\семён\documents\visual studio 2010\Projects\BookLesson\BookLesson\obj\Debug\BookLesson.dll
+c:\users\семён\documents\visual studio 2010\Projects\BookLesson\BookLesson\obj\Debug\BookLesson.pdb
